@@ -1,2 +1,4 @@
 rust.code-workspace
 hello_world/main
+*/target
+*/Cargo.lock
